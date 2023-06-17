@@ -114,6 +114,7 @@ int main()
  initscr ();
  int x = 0;
  int y = 0;
+
  getmaxyx(stdscr, ymax, xmax);
  mult_yx = ymax * xmax;
  //mult_yx = 10;
