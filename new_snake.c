@@ -69,7 +69,7 @@ void new_limit (int new_y, int new_x)
  
 }
 //increase snake
-// O(limit_snake)
+
 
 void delete_snake ()
 {
