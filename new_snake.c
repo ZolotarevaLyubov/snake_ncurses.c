@@ -19,17 +19,7 @@ void rand_yx ()
   curs_set(0);//delete cursor
 }
 //apple
-/*
-++       +++++
-_ _ _ _ _ _  _
-  ^      ^      
-  l      s      
 
-
-    ++++++
-_ _ _ _ _ _ _
-    s     l
-*/
 
 void print_arr ()
 {
