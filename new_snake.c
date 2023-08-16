@@ -18,7 +18,7 @@ void rand_yx ()
   rand_yx();
   curs_set(0);//delete cursor
 }
-//
+//apple
 
 
 void print_arr ()
