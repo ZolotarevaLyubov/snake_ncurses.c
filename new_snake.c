@@ -20,7 +20,6 @@ void rand_yx ()
 }
 //
 
-
 void print_arr ()
 {
  if (start_snake < limit_snake) 
