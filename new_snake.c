@@ -163,6 +163,5 @@ int main()
  }
  
 endwin ();
- 
 }
 
