@@ -19,7 +19,6 @@ void rand_yx ()
   curs_set(0);//delete cursor
 }
 
-
 void print_arr ()
 {
  if (start_snake < limit_snake) 
