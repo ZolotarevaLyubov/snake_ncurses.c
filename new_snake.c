@@ -10,6 +10,7 @@ int limit_snake = 0;
 int start_snake = 0;
 bool game_over = false;
 int clash_snake(int y, int x);
+
 void rand_yx ()
 {
   rand_y = rand() % ymax;
@@ -42,9 +43,6 @@ void print_arr ()
 }
 }
 //print snake
-
- 
-
 
 void new_limit (int new_y, int new_x)
 {
