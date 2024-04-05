@@ -1,6 +1,7 @@
 #include <ncurses.h>
 #include <stdlib.h>
 
+
 int rand_y, rand_x;
 int ymax, xmax;
 int mult_yx;
