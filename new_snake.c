@@ -25,6 +25,7 @@ void print_arr ()
 {
  if (start_snake < limit_snake) 
  {
+  
  for(int i = start_snake; i < limit_snake; i++)
  {
    mvaddstr (arry[i], arrx[i], "o");   
