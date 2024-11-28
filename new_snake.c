@@ -44,7 +44,6 @@ void print_arr ()
 }
 }
 
-//print snake
 void new_limit (int new_y, int new_x)
 {
   
