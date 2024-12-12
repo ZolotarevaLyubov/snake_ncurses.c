@@ -30,7 +30,6 @@ void print_arr ()
    mvaddstr (arry[i], arrx[i], "o");   
  }
 }
- 
  else
 {
  for (int j = 0; j < limit_snake; j++)
